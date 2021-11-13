@@ -7,5 +7,11 @@ What is Fillit?
 What is a Tetrimino?
 * A Tetriminos is a 4-blocks geometric figure that most of you might know thanks to the popular game Tetris.
 
+Rules :
+* The 42 norm of coding.
+* The allowed functions are : exit, open, close, write, read, malloc and free.
+* Makefile must compile code and present the following rules: all, clean, fclean and re.
+* Compile executable with the flags : Wall, Wextra, and Werror. 
+
 How to use fillit :
 * `./fillit` "filename" (the files where you put all your tetriminos here it's mao.txt)
