@@ -8,4 +8,4 @@ What is a Tetrimino?
 * A Tetriminos is a 4-blocks geometric figure that most of you might know thanks to the popular game Tetris.
 
 How to use fillit :
-* ./fillit "filename" (the files where you put all your tetriminos here it's mao.txt)
+* `./fillit` "filename" (the files where you put all your tetriminos here it's mao.txt)
